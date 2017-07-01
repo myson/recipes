@@ -1,6 +1,6 @@
 Ingredients:
  - 2 lb ground meat
- - 1 onion 
+ - 1 onion
  - 1 head cabbage
  - 1 head garlic
  - 2 cans tomato paste
@@ -9,7 +9,7 @@ Ingredients:
 
  Directions:
  	1. Chop up cabbage, onion, garlic.
- 	
+
  	2. Heat oil in large pot.
 
  	3. Add vegetables.
@@ -18,4 +18,4 @@ Ingredients:
 
  	5. Add tomato paste and stir.
 
- 	6. Stir occaisonally until meat is fully cooked.
+ 	6. Stir carefully until meat is fully cooked.
